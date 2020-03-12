@@ -3,6 +3,7 @@ Reunião de materiais e tutorias vistos no [NICAR](https://www.ire.org/events-an
 ⚜️ NICAR 2020 ⚜️ - March 5 - March 8, 2020<br>
 New Orleans, LA<br>
 Organizado pelo [IRE](https://www.ire.org/) 
+[Tipsheets](https://www.ire.org/events-and-training/conferences/nicar-2020/tipsheets-links)
 
 -------------------------------------
 
