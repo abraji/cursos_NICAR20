@@ -6,3 +6,4 @@ Organizado pelo [IRE](https://www.ire.org/)
 
 -------------------------------------
 
+- Batch PDF processing - Utiliza a biblioteca de Python pdfplumber para analisar um lote inteiro de PDFs - procura e soma ocorrências de reclamações em documentos do ICE (imigração e fiscalização aduaneira) dos EUA, normalmente violações contra imigrantes que são detidos
