@@ -7,7 +7,7 @@ Nível de habilidade: Intermediário
 Vamos apresentar o R, uma linguagem de programação de código aberto gratuita e poderosa que elevará seus relatórios de dados para um próximo nível. No final desta sessão de três horas, você poderá ler dados de tipos de arquivos comuns no R, limpar e explorá-los, criar visualizações e tornar todo o fluxo de trabalho dos dados reproduzível. A classe usará principalmente o pacote 'tidyverse'. Também falaremos sobre como encontrar ajuda quando você estiver empacado.
 
 
-## Instrutoras
+## Instrutores
 Hannah Fresques, ProPublica (hannah.fresques@propublica.org)
 
 Agnel Philip, ProPublica (agnel.philip@propublica.org)
