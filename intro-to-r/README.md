@@ -16,6 +16,12 @@ Agnel Philip, ProPublica (agnel.philip@propublica.org)
 ## Instalação
 Para usar as ferramentas que usamos nas aulas, você precisa instalar o [R](https://cran.rstudio.com/) e o [RStudio](https://www.rstudio.com/products/rstudio/download/).
 
+
+## Materiais
+Os scripts da aula estão em scripts
+Os dados usados em data
+E visualizações criadas em visualizations
+
 ## Fontes
 [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
