@@ -7,4 +7,6 @@ Organizado pelo [IRE](https://www.ire.org/)<br>
 
 -------------------------------------
 
-- Batch PDF processing - Utiliza a biblioteca de Python pdfplumber para analisar um lote inteiro de PDFs - procura e soma ocorrências de reclamações em documentos do ICE (imigração e fiscalização aduaneira) dos EUA, normalmente violações contra imigrantes que são detidos
+- Batch PDF processing - Utiliza a biblioteca de Python pdfplumber para analisar um lote inteiro de PDFs - procura e soma ocorrências de reclamações em documentos do ICE (imigração e fiscalização aduaneira) dos EUA, normalmente violações contra imigrantes que são detidos, por Dan Keemahill (Austin American-Statesman)
+
+- Intro to R - Vamos apresentar o R, uma linguagem de programação de código aberto gratuita e poderosa que elevará os relatórios de dados para um próximo nível. No final desta sessão de três horas, você poderá ler dados de tipos de arquivos comuns no R, limpar e explorá-los, criar visualizações e tornar todo o fluxo de trabalho dos dados reproduzível. Também falaremos sobre como encontrar ajuda quando você estiver parado. Por Hannah Fresques e Agnel Philip (ProPublica)
