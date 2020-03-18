@@ -18,8 +18,8 @@ Para usar as ferramentas que usamos nas aulas, você precisa instalar o [R](http
 
 
 ## Materiais
-Os scripts da aula estão em scripts
-Os dados usados em data
+Os scripts da aula estão em scripts<br>
+Os dados usados em data<br>
 E visualizações criadas em visualizations
 
 ## Fontes
