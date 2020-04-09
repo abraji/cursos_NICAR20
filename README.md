@@ -14,3 +14,5 @@ Organizado pelo [IRE](https://www.ire.org/)<br>
 - (nlp-workshop) Descobrindo uma história: Usando o processamento de linguagem natural - Já se sentiu perdido debruçado sobre um enorme arquivo? Deseja criar histórias interessantes de redes sociais, arquivos de bate-papo ou fóruns com facilidade (relativa)? 
 Por que não tentar usar um pouco de processamento de linguagem natural (PNL)!
 Esta sessão mostrará como aplicar uma mistura de linguística e IA ao mundo da Internet baseado em texto. Você aprenderá alguns conceitos básicos da PNL e como aplicá-los a textos online usando o pacote Python Spacy. Você poderá sair desta sessão pronto para começar a pesquisar seus dados. Por Madeleine Varner (The Markup), Garance Burke (JSK Fellow Stanford University) e Matt Kiefer (JSK Fellow Stanford University).
+
+- (python-ire) Aulas de Python criadas pelo Investigative Reporters and Editors para o NICAR20. Python 1: The fundamentals (Python 101.ipynb) - Uma introdução à linguagem de programação Python para iniciantes. Esta sessão abordará os fundamentos e a sintaxe básica para prepará-lo para aulas mais avançadas. / 
