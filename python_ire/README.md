@@ -35,7 +35,7 @@ Também lembre
 
 ### No time Toulouse!
     Você já pode começar a estudar os códigos!
-    No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
+    No cmd ou terminal vá onde está o arquivo requirements.txt e digite: jupyter lab
     Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
     Abra ou crie os arquivos que desejar e namastê!
 ![Python](D2HXHPZXQAAvXcI.jpg)    
