@@ -17,8 +17,8 @@
      
 ##### Repositório da aula
 
-     O mais indicado depois a fazer é clicar no botão "Clone or download" e fazer o "Download ZIP" de todo material da aula
-     Você pode descompactar o zip em uma pasta de sua preferência
+     O mais indicado depois a fazer é clicar no botão "Clone or download" (na pasta anterior cursos_NICAR20) e fazer o "Download ZIP" de todo material da aula
+     Você pode descompactar o zip em uma pasta de sua preferência e procurar os itens de sua preferência
      Abra o cmd ou terminal e entre nesta pasta, onde está o arquivo requirements.txt
      
 ### Demais bibliotecas a serem utilizadas:
