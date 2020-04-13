@@ -5,7 +5,7 @@
 ## O que é necessário instalar primeiro?
 ### Python!
 
-![Python](/Monty-Python-foot.jpg)
+![Python](Monty-Python-foot.jpg)
 
 *Atenção: existe Python 2 e Python 3, usamos a versão 3 mais recente*<br>
 
@@ -38,7 +38,7 @@ Também lembre
     No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
     Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
     Abra ou crie os arquivos que desejar e namastê!
-![Python](/D2HXHPZXQAAvXcI.jpg)    
+![Python](D2HXHPZXQAAvXcI.jpg)    
 
 ### Dúvidas de raspagem?
     Escreva no Fórum brasileiro de jornalismo de dados - ambiente para troca de informações da comunidade brasileira
